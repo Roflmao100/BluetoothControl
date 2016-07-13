@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Joystick.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="MyOvalShape.cs" />
     <Compile Include="OverallView.cs" />
